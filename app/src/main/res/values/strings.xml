@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="welcome">Welcome to Mad Libs!</string>
+    <string name="start">Get Started</string>
+    <string name="generateButton">Generate</string>
+    <string name="goHome">Go Home</string>
+</resources>
